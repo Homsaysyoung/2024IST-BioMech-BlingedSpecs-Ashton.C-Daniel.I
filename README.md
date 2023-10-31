@@ -14,4 +14,5 @@ Daniel Isaac: Will work on the code and test out
 
 Ashton Chen: Will work on the design and make sure the code can function with it
 
+## INSPIRATION
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.ytimg.com/vi/zuXmo_eJgEE/maxresdefault.jpg)
