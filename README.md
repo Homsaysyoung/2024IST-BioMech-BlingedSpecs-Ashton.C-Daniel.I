@@ -1,6 +1,6 @@
 # Blinged Specs
 
-#Project Overview
+## Project Overview
 This project is a advanced glasses that will help people with Blindness – visual acuity and Blepharospasm
 
 # How it works
