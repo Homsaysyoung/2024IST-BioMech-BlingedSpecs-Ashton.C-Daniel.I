@@ -34,6 +34,7 @@
 #include "Arduino.h"
 #include "Ultrasonic.h"
 
+
 #ifdef ARDUINO_ARCH_STM32F4
 
 static uint32_t MicrosDiff(uint32_t begin, uint32_t end) {
