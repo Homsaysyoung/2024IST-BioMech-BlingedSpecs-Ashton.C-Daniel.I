@@ -12,7 +12,8 @@ static unsigned int red_LED = 3;
 
 void setup () {
   Serial.begin(9600);
-  pinMode(red_LED, OUTPUT);
+  pinMode(red_LED, OUTPUT);`
+  
 }
 
 void loop () {
