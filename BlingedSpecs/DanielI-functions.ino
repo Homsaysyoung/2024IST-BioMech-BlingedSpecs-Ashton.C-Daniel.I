@@ -1,4 +1,4 @@
-static unsigned int myBuzzer = 3;
+static unsigned int myBuzzer = 10;
 
 void setup () {
   Serial.begin(9600);
